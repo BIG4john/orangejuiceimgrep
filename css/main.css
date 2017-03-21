@@ -21,6 +21,8 @@ nav img {
 }
 nav span a {
 	font-size: 40px;
+	text-decoration: none;
+	color: #fff;
 }
 .orange-bold {
 	font-weight: bolder;
