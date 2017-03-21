@@ -116,21 +116,27 @@ body div p {
 	color: #78cac6;
 }
 .button-orange {
-	height: 55px;
-	width: 290px;
     font-size: 20px;
     border: none;
     background-color: #fe7e00;
     color: #fff;
+    cursor: pointer;
 }
 .button-blue {
-	height: 55px;
-	width: 290px;
     font-size: 20px;
     border: none;
     background-color: #78cac6;
     color: #fff;
     margin-left: 55px;
+    cursor: pointer;
+}
+body div button.button-orange{
+	height: 55px;
+	width: 290px;
+}
+body div button.button-blue{
+	height: 55px;
+	width: 290px;
 }
 footer {
 	background-color: #78cac6;
