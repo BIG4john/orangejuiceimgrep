@@ -62,14 +62,7 @@ nav ul li a {
 	text-indent: 16px;
 	z-index: 1;
 }
-.searchbox img{
-	height: 15px;
-	width: 15px;
-	opacity: 0.5;
-	position: relative;
-
-}
-body div img.searchicon {
+body div i {
 	position: absolute;
 	z-index: 2;
 	top: 120px;
